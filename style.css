@@ -1,0 +1,52 @@
+body{
+	margin-left:12%;
+	margin-right:12%;
+	background-color:#FFFFFF;
+	height:757px;
+}
+
+.top{
+	background-color:#000000;
+	color:white;	
+	font: normal 16px Arial, Sans-serif;
+}
+
+html{
+	background-color:rgb(60,80,80);
+}
+
+.homeButton{
+	color:white;
+}
+
+.dropdown{
+	float:right;
+	margin-right:15px;
+}
+
+a{
+	color:rgb(60,80,80);
+}
+
+html,body{
+	height:95%;
+}
+
+h1,h2,h3,h4,p,.homeButton,.contactForm{
+	margin-left:20px;
+	margin-right:20px;
+}
+
+p{
+	font:normal 16px Arial, Sans-serif;	
+    color: rgb(60,80,80);
+}
+
+h3{
+	font:bold 18px Arial, Sans-serif;	
+    color: rgb(60,80,80);
+}
+
+h2{
+	font-size:20px;
+}
